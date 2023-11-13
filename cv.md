@@ -4,24 +4,24 @@
 - **Location:**  Minsk, Belarus
 - **Email:** ataska91@gmail.com
 - **GitHub:** NatashaKLe
-Briefly About Myself:
+## Briefly About Myself:
 I have Strong communication skills, teamwork, perseverance and multi-tasking ability.
 My work experience: 4 years in education, 3 years in customer service and customer care.
 I hope the courses will help me to gain useful knowledge. I like to gain new knowledge and develop myself.
-Skills and Proficiency:
+## Skills and Proficiency:
 С++
 HTML
 CSS
 VSCode
 Windows OS
-Code example:
+## Code example:
 function multiply(a, b){
   return a * b
 }
-Education
+## Education
 Belarusian State Pedagogical University
 (Faculty of Physics and Mathematics)
-Languages: 
+## Languages: 
 Russian (native)
 Belarusian (native)
 German A2
