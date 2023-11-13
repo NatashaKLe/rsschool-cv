@@ -22,10 +22,10 @@ function multiply(a, b)
 }
 ```
 ## Education
-Belarusian State Pedagogical University
+[Belarusian State Pedagogical University](https://bspu.by/)
 (Faculty of Physics and Mathematics)
 ## Languages: 
-Russian (native)
-Belarusian (native)
-German A2
-English A1 I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
+* Russian (native)
+* Belarusian (native)
+* German A2
+* English A1 I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
