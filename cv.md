@@ -28,4 +28,4 @@ function multiply(a, b)
 * Russian (native)
 * Belarusian (native)
 * German A2
-* English A1 I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
+* English A1. I try to learn English in the ways available to me: I watch movies in English, use Duolingo application, watch educational videos on youtube.
