@@ -1,3 +1,4 @@
+![ava](https://github.com/NatashaKLe/rsschool-cv/blob/gh-pages/ava.png)
 # Natallia Kabantsova
 ***
 ## Contacts
